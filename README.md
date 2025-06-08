@@ -1,6 +1,7 @@
-# UnemployCoin (UNEMP)
+# UnemployCoin™ (UNEMP)
+*UnemployCoin™ is a trademark of its creator, used to identify a community-driven cryptocurrency project.*
 
-**UnemployCoin (UNEMP)** is a community-powered ERC-20 meme token with a real message: supporting the unemployed, the underdogs, and everyone left behind by the system. Built on the Polygon network with transparency, security, and purpose in mind, $UNEMP is more than just a meme — it’s a movement.
+**UnemployCoin™ (UNEMP)** is a community-powered ERC-20 meme token with a real message: supporting the unemployed, the underdogs, and everyone left behind by the system. Built on the Polygon network with transparency, security, and purpose in mind, $UNEMP is more than just a meme — it’s a movement.
 
 ---
 
@@ -10,7 +11,7 @@ This smart contract implements a standard ERC-20 token, augmented with `Ownable`
 
 ### ✅ Token Specs
 - **Total Supply:** 1,000,000,000 $UNEMP (Minted at deployment)
-- **Token Name:** UnemployCoin
+- **Token Name:** UnemployCoin™
 - **Symbol:** UNEMP
 - **Decimals:** 18
 - **Network:** Polygon (EVM Compatible)
@@ -36,7 +37,7 @@ This smart contract implements a standard ERC-20 token, augmented with `Ownable`
 
 ## 🧠 Project Vision
 
-UnemployCoin was created not to make millionaires, but to give a voice to the forgotten — people ghosted by job apps, overlooked by systems, and sick of fake promises in crypto. It's a simple but bold message: **we deserve better**.
+UnemployCoin™ was created not to make millionaires, but to give a voice to the forgotten — people ghosted by job apps, overlooked by systems, and sick of fake promises in crypto. It's a simple but bold message: **we deserve better**.
 
 This project:
 - Has **no fake roadmaps**, only real intentions.
@@ -50,7 +51,7 @@ This project:
 - 🌍 Website: [https://UnemployCoin.com](https://UnemployCoin.com)
 - 🐦 Twitter/X: [@UnemployCoin](https://twitter.com/UnemployCoin)
 - 📜 Token Explorer: [PolygonScan](https://polygonscan.com/address/0xe1e64a89C7B95F23C601943147228784CCA35395)
-- 🛠 GitHub: [UnemployCoin Repository](https://github.com/UnemployCoin/UnemployCoin)
+- 🛠 GitHub: [UnemployCoin™ Repository](https://github.com/UnemployCoin/UnemployCoin)
 
 ---
 
@@ -75,7 +76,7 @@ This project is licensed under the **MIT License** — free for anyone to use, b
 
 - **Chris Williams**
 - Deployed: June 4, 2025
-- Twitter: [@UnemployCoin](https://twitter.com/UnemployCoin)
+- Twitter: [@UnemployCoin™](https://twitter.com/UnemployCoin)
 
 ---
 
