@@ -51,10 +51,10 @@ Twitter: [@UnemployCoin](https://twitter.com/UnemployCoin)
 
 ## 🌐 Community & Links
 
-- 🌍 Website: *Coming Soon*  
+- 🌍 Website:  [UnemployCoin.com](https://UnemployCoin.com)
 - 🐦 Twitter: [@UnemployCoin](https://twitter.com/UnemployCoin)  
 - 📜 Contract Source: [PolygonScan](https://polygonscan.com/address/0xe1e64a89C7B95F23C601943147228784CCA35395)  
-- 🛠 GitHub: [UnemployCoin Repository](https://github.com/your-repo-link-here)
+- 🛠 GitHub: [UnemployCoin.io Repository](https://github.com/UnemployCoin/unemploycoin.github.io)
 
 ---
 
