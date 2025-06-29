@@ -49,7 +49,7 @@ This project:
 ## 🌐 Community & Links
 
 - 🌍 Website: [https://UnemployCoin.com](https://UnemployCoin.com)
-- 🐦 Twitter/X: [@UnemployCoin](https://twitter.com/UnemployCoin)
+- 🐦 Twitter/X: [@UnemployCoin](https://X.com/UnemployCoin)
 - 📜 Token Explorer: [PolygonScan](https://polygonscan.com/address/0xe1e64a89C7B95F23C601943147228784CCA35395)
 
 ---
@@ -75,9 +75,7 @@ This project is licensed under the **MIT License** — free for anyone to use, b
 
 - **Chris Williams**
 - Deployed: June 4, 2025
-- Twitter: [@UnemployCoin™](https://twitter.com/UnemployCoin)
+- X: [@IamMasterNeo(https://X.com/iammasterneo)
 
 ---
 
-> *“If this thing even helps one person feel seen, it was worth deploying.”*  
-> – Chris
