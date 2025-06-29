@@ -51,7 +51,6 @@ This project:
 - 🌍 Website: [https://UnemployCoin.com](https://UnemployCoin.com)
 - 🐦 Twitter/X: [@UnemployCoin](https://twitter.com/UnemployCoin)
 - 📜 Token Explorer: [PolygonScan](https://polygonscan.com/address/0xe1e64a89C7B95F23C601943147228784CCA35395)
-- 🛠 GitHub: [UnemployCoin™ Repository](https://github.com/UnemployCoin/UnemployCoin)
 
 ---
 
